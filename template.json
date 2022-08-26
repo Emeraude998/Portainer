@@ -3000,7 +3000,7 @@
         },
         {
             "type": 1,
-            "title": "Sql Server Linux",
+            "title": "SQL Server Linux",
             "description": "Microsoft SQL Server on Linux",
             "categories": [
                 "database"
@@ -3026,7 +3026,7 @@
         },
         {
             "type": 1,
-            "title": "Sql Server Windows",
+            "title": "SQL Server Windows",
             "description": "Microsoft SQL Server Developer for Windows containers",
             "categories": [
                 "database"
@@ -3057,7 +3057,7 @@
         },
         {
             "type": 1,
-            "title": "Sql Server Express",
+            "title": "SQL Server Express",
             "description": "Microsoft SQL Server Express for Windows containers",
             "categories": [
                 "database"
