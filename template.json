@@ -202,7 +202,7 @@
             "image": "linuxserver/duckdns:latest",
             "logo": "https://raw.githubusercontent.com/thesugarat/portainer_templates-1/master/Images/duckdns.png",
             "platform": "linux",
-            "title": "Duckdns",
+            "title": "DuckDNS",
             "type": 1
         },
         {
@@ -2905,7 +2905,7 @@
         },
         {
             "type": 1,
-            "title": "Gitlab Ce",
+            "title": "Gitlab CE",
             "description": "Open-source end-to-end software development platform",
             "note": "Default username is <b>root</b>. Check the <a href=\"https://docs.gitlab.com/omnibus/docker/README.html#after-starting-a-container\" target=\"_blank\">Gitlab documentation</a> to get started.",
             "categories": [
